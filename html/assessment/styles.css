@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.heading {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  color: blue;
+  text-align: center;
+}
+.Linktag {
+  text-decoration: none;
+  color: rgb(9, 122, 124);
+}
+.container {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.button {
+  color: darkcyan;
+  font-size: large;
+  width: 120px;
+}
