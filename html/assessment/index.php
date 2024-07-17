@@ -98,7 +98,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>School Management System</title>
+    <title>School Management hello System</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
